@@ -9,7 +9,7 @@ import multiprocessing
 
 random.seed = (os.urandom(2048))
 
-namesfile = 'names.json'
+namesfile = 'names.txt'
 
 email_domains = ['gmail.', 'yahoo.', 'hotmail.', 'outlook.', 'icloud', 'protonmail', 'mail']
 
