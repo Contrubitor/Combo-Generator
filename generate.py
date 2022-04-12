@@ -11,7 +11,7 @@ random.seed = (os.urandom(2048))
 
 namesfile = 'names.json'
 
-email_domains = ['gmail.', 'yahoo.', 'hotmail.', 'aol.', 'outlook.', 'icloud', 'protonmail', 'mail']
+email_domains = ['gmail.', 'yahoo.', 'hotmail.', 'outlook.', 'icloud', 'protonmail', 'mail']
 
 domain_end = ['com']
 
